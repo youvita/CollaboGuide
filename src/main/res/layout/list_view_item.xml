@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.kosign.collaboguide.NavigationBar
+         android:id="@+id/navigationBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            title="@string/app_name"
+            language="en" >
+        
+    </com.kosign.collaboguide.NavigationBar>
+    
+    <ListView
+        android:id="@+id/lv_List"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:listSelector="@android:color/transparent">
+    </ListView>
+
+</LinearLayout>

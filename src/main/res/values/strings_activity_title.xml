@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_title_login">로그인</string>
+    <string name="activity_title_notification">알림</string>
+    <string name="activity_title_cscenter">고객센터</string>    
+    <string name="activity_title_notification_setting">알림설정</string>
+    
+    <string name="activity_title_collabo_search">검색</string>
+    <string name="activity_title_content_detail_view">상세조회</string>
+    <string name="activity_title_create_collabo">콜라보 작성</string>
+    <string name="activity_title_modify_collabo">콜라보 수정</string>
+    <string name="activity_title_write_reply">답글 작성</string>
+    <string name="activity_title_modify_reply">답글 수정</string>
+    <string name="activity_title_category_list">분류하기</string>
+    
+    <string name="activity_title_content_participant_list">참여자</string>
+    <string name="activity_title_participant_recnt">참여자 선택</string>
+    <string name="activity_title_config">더보기</string>
+    
+    
+    <string name="activity_title_photo_select">사진 선택</string>
+</resources>

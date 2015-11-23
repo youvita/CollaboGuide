@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">콜라보</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login -->    
+    <string name="hint_userid">아이디</string>
+    <string name="hint_password">비밀번호</string>
+    <string name="btn_login">로그인</string>
+    <string name="checkbox_login">로그인 상태 유지</string>
+    <string name="text_signup">가입하기</string>
+    <string name="text_findid">아이디 찾기</string>
+    <string name="text_findpwd">비밀번호 찾기</string>
+    
+    <!-- List -->
+    <string name="list_item_part">Part Name</string>
+    <string name="list_item_title">Title</string>
+</resources>
